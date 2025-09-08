@@ -1,0 +1,18 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+
+# Database
+sqlalchemy
+alembic
+
+# Basic utilities
+python-dotenv
+httpx
+aiofiles
+
+# Development
+pytest
+pytest-asyncio
